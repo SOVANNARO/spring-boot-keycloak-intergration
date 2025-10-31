@@ -2,7 +2,7 @@
 ## Keycloak Configuration Steps (Step-by-Step)
 
 1. **Create Client**
-   ![1 Create Client](src/main/resources/static/images/1 Create Clinet.PNG)
+   ![1 Create Client](src/main/resources/static/images/1_create_clinet.PNG)
 
 2. **Add Client Name**
    ![2 Add Client Name](src/main/resources/static/images/2 Add Client Name.PNG)
