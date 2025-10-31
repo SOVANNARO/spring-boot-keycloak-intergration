@@ -2,118 +2,82 @@
 ## Keycloak Configuration Steps (Step-by-Step)
 
 1. **Create Client**
-   ![1 Create Client](src/main/resources/static/images/1_create_clinet.PNG)
-
+   ![1_create_client](src/main/resources/static/images/1_create_clinet.png)
 2. **Add Client Name**
-   ![2 Add Client Name](src/main/resources/static/images/2 Add Client Name.PNG)
-
+   ![2_add_client_name](src/main/resources/static/images/2_add_client_name.png)
 3. **Choose Authentication Flow**
-   ![3 Choose Authenthentication flow](src/main/resources/static/images/3 Choose Authenthication flow.PNG)
-
+   ![3_choose_authentication_flow](src/main/resources/static/images/3_choose_authentication_flow.png)
 4. **Login Setting Step**
-   ![4 Login Setting Step](src/main/resources/static/images/4 Login Setting Step.PNG)
-
+   ![4_login_setting_step](src/main/resources/static/images/4_login_setting_step.png)
 5. **Verify Create Client Step**
-   ![5 Verify Create Client Step](src/main/resources/static/images/5 Veify Create Client Step.png)
-
+   ![5_verify_create_client_step](src/main/resources/static/images/5_verify_create_client_step.png)
 6. **See Your Client Created in List**
-   ![6 See Your Client Created in List](src/main/resources/static/images/6 See Your Client Created in List.PNG)
-
+   ![6_see_your_client_created_in_list](src/main/resources/static/images/6_see_your_client_created_in_list.png)
 7. **Admin Create Realm Roles**
-   ![7 Admin Create Realm Roles](src/main/resources/static/images/7 Admin Create Realm Roles.PNG)
-
+   ![7_admin_create_realm_roles](src/main/resources/static/images/7_admin_create_realm_roles.png)
 8. **Click Create Realm Roles**
-   ![7.1 Click Create Realm Roles](src/main/resources/static/images/7.1 Click Create Realm Roles.PNG)
-
+   ![7_1_click_create_realm_roles](src/main/resources/static/images/7_1_click_create_realm_roles.png)
 9. **Create User Realm Role**
-   ![8 Create User Realm Role](src/main/resources/static/images/8 Create User Realm Role.PNG)
-
+   ![8_create_user_realm_role](src/main/resources/static/images/8_create_user_realm_role.png)
 10. **Step Create User**
-    ![9 Step Create User](src/main/resources/static/images/9 Step Create User.PNG)
-
+    ![9_step_create_user](src/main/resources/static/images/9_step_create_user.png)
 11. **After Create User**
-    ![10 After Create User](src/main/resources/static/images/10 After Create User.PNG)
-
+    ![10_after_create_user](src/main/resources/static/images/10_after_create_user.png)
 12. **Set Password For User**
-    ![11 Set Password For User](src/main/resources/static/images/11 Set Password For User.PNG)
-
+    ![11_set_password_for_user](src/main/resources/static/images/11_set_password_for_user.png)
 13. **Click Set Password For User**
-    ![12 Click Set Password For User](src/main/resources/static/images/12 Click Set Password For User.PNG)
-
+    ![12_click_set_password_for_user](src/main/resources/static/images/12_click_set_password_for_user.png)
 14. **Click Save Password**
-    ![13 Step Click Save Password](src/main/resources/static/images/13 Step Click Save Password.PNG)
-
+    ![13_step_click_save_password](src/main/resources/static/images/13_step_click_save_password.png)
 15. **See Password In List**
-    ![14 See Password In list](src/main/resources/static/images/14 See  Password In list.png)
-
+    ![14_see_password_in_list](src/main/resources/static/images/14_see_password_in_list.png)
 16. **Create Role For Client**
-    ![15 Create Role For Client](src/main/resources/static/images/15 Create Role For Client.png)
-
+    ![15_create_role_for_client](src/main/resources/static/images/15_create_role_for_client.png)
 17. **Click Client For Create Role**
-    ![15.1 Click Client For Create Role](src/main/resources/static/images/15.1 Click Client For Create Role.png)
-
+    ![15_1_click_client_for_create_role](src/main/resources/static/images/15_1_click_client_for_create_role.png)
 18. **Create Client Admin**
-    ![16 Create Client Admin](src/main/resources/static/images/16 Create Client Admin.png)
-
+    ![16_create_client_admin](src/main/resources/static/images/16_create_client_admin.png)
 19. **Create Client User**
-    ![17 Create Client User](src/main/resources/static/images/17 Create Client User.png)
-
+    ![17_create_client_user](src/main/resources/static/images/17_create_client_user.png)
 20. **After Create Client We Have Two Clients In List**
-    ![18 After Create Client we have two Client User in list](src/main/resources/static/images/18 After Create Client we have two Client User in list.PNG)
-
+    ![18_after_create_client_two_clients_in_list](src/main/resources/static/images/18_after_create_client_two_clients_in_list.png)
 21. **Go To Realm Roles**
-    ![19 Go To Realm Roles](src/main/resources/static/images/19 Go To Realm Roles.PNG)
-
+    ![19_go_to_realm_roles](src/main/resources/static/images/19_go_to_realm_roles.png)
 22. **Assign Client Role**
-    ![20 Assign Client Role](src/main/resources/static/images/20 Assign Client Role.PNG)
-
+    ![20_assign_client_role](src/main/resources/static/images/20_assign_client_role.png)
 23. **Assign Client For User Role Admin**
-    ![21 Assign Client For User Role Admin](src/main/resources/static/images/21 Assign Client For User Role Admin.PNG)
-
+    ![21_assign_client_for_user_role_admin](src/main/resources/static/images/21_assign_client_for_user_role_admin.png)
 24. **Click For User Role For Assign Client**
-    ![22 Click For User Role For Assign Client](src/main/resources/static/images/22 Click For User Role For Assign Client.PNG)
-
+    ![22_click_for_user_role_for_assign_client](src/main/resources/static/images/22_click_for_user_role_for_assign_client.png)
 25. **Click Assign Client Role For Assign To User**
-    ![23 Click Assign Client Role For Assign to user](src/main/resources/static/images/23 Click Assign Client Role For Assign to user.PNG)
-
+    ![23_click_assign_client_role_for_assign_to_user](src/main/resources/static/images/23_click_assign_client_role_for_assign_to_user.png)
 26. **Search Client For Role User And Click Assign**
-    ![24 Search Client For Role User And Clicke Asssign](src/main/resources/static/images/24 Search Client For Role User And Clicke Aassign.png)
-
+    ![24_search_client_for_role_user_and_click_assign](src/main/resources/static/images/24_search_client_for_role_user_and_click_assign.png)
 27. **Client User Role Assigned**
-    ![25 Client User Role Assigned](src/main/resources/static/images/25 Client User Role Assigned.PNG)
-
+    ![25_client_user_role_assigned](src/main/resources/static/images/25_client_user_role_assigned.png)
 28. **User Role In List Column Composite Is Changed To True**
-    ![26 User Role in list colum Composite is change to True](src/main/resources/static/images/26 User Role in list colum Composite is change to True.PNG)
-
+    ![26_user_role_in_list_column_composite_is_true](src/main/resources/static/images/26_user_role_in_list_column_composite_is_true.png)
 29. **Go To User List**
-    ![27 Go To User List](src/main/resources/static/images/27 Go To User List.PNG)
-
+    ![27_go_to_user_list](src/main/resources/static/images/27_go_to_user_list.png)
 30. **Click On Assign Client Role**
-    ![28 Click on Assign Client Role](src/main/resources/static/images/28 Click on Assign Client Role.png)
-
+    ![28_click_on_assign_client_role](src/main/resources/static/images/28_click_on_assign_client_role.png)
 31. **Search Client Admin And Assign**
-    ![29 Search Client Admin and Assgin](src/main/resources/static/images/29 Search Client Admin and Assign.png)
-
+    ![29_search_client_admin_and_assign](src/main/resources/static/images/29_search_client_admin_and_assign.png)
 32. **Role Is Assigned**
-    ![30 Role is Assigned](src/main/resources/static/images/30 Role is Assigned.PNG)
-
+    ![30_role_is_assigned](src/main/resources/static/images/30_role_is_assigned.png)
 33. **Click To See Endpoint Configuration**
-    ![31 Click to see endpoint Configuration](src/main/resources/static/images/31 Click to see endpoint Configuration.png)
-
+    ![31_click_to_see_endpoint_configuration](src/main/resources/static/images/31_click_to_see_endpoint_configuration.png)
 34. **You Will See All Endpoint Of Configuration**
-    ![32 you will see all endpoint of configuration](src/main/resources/static/images/32 you will see all endpoint of configuration.png)
-
+    ![32_you_will_see_all_endpoints_of_configuration](src/main/resources/static/images/32_you_will_see_all_endpoints_of_configuration.png)
 35. **Login With Postman**
-    ![33 Login with postman](src/main/resources/static/images/33 Login with postman.PNG)
-
+    ![33_login_with_postman](src/main/resources/static/images/33_login_with_postman.png)
 36. **Check Access Token**
-    ![34 check access token](src/main/resources/static/images/34 check access token.PNG)
-
+    ![34_check_access_token](src/main/resources/static/images/34_check_access_token.png)
 37. **Create Project Spring Boot**
-    ![35 Create Project Spring boot](src/main/resources/static/images/35 Create Project Spring boot.PNG)
-
+    ![35_create_project_spring_boot](src/main/resources/static/images/35_create_project_spring_boot.png)
 38. **Add Dependency Server**
-    ![36 Add Dependency Server](src/main/resources/static/images/36 Add Dependency Server.PNG)
+    ![36_add_dependency_server](src/main/resources/static/images/36_add_dependency_server.png)
+
 
 # Spring Boot & Keycloak Integration Example
 
